@@ -1,4 +1,4 @@
-### Olá ! Eu sou Lucas Palmeira 👋
+### Olá, Eu sou Lucas Palmeira !👋
 
 
 <p align="center">I ❤️ solving great challenges using tech. <br><br>  I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.</p>&nbsp;
