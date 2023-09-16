@@ -1,7 +1,7 @@
 ### Olá, Eu sou Lucas Palmeira !👋
 
 
-<p align="center">I ❤️ solving great challenges using tech. <br><br>  I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.</p>&nbsp;
+<p align="center">I like solving great challenges using tech. <br><br>  I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Lucasppalmeira&theme=radical&mode=weekly" />
