@@ -1,7 +1,14 @@
-### Olá, Eu sou Lucas Palmeira !👋
+## Olá, Eu sou Lucas Palmeira !👋
+### 💡I am currently pursuing a degree in Computer Science at the Federal University of Campina Grande.
+🚀 Passionate Tech Enthusiast and Problem Solver
+
+👋 Welcome to my GitHub! I'm on a mission to tackle exciting challenges through technology while continually exploring new horizons.
 
 
-<p align="center">I like solving great challenges using tech. <br><br>  I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.</p>&nbsp;
+
+
+<p align="center">I like solving great challenges using tech and also learning the best ways to do that. <br><br> 
+ I am <strong>passionate to discover new technologies, methodologies, and approaches. </strong> and use them to create high quality solutions.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Lucasppalmeira&theme=radical&mode=weekly" />
